@@ -1,0 +1,15 @@
+{
+  "title": "Início",
+  "language": "pt-BR",
+  "description": "Plataforma de venda, doação e troca de objetos em Blumenau, Santa Catarina.",
+  "icons": {
+    "icon": "/images/logo.jpg?v=2"
+  },
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
